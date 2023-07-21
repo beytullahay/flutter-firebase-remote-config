@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027738767344",
+    "project_id": "remoteconfig-9b45d",
+    "storage_bucket": "remoteconfig-9b45d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027738767344:android:5237c9ecd30ba1c8659735",
+        "android_client_info": {
+          "package_name": "com.example.flutter_remote_config"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027738767344-9ds2h5ncl482g7j1cu5eo74cp02tblvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc48cgUdOA4nAadezC-SGW-PDSYhE772k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027738767344-9ds2h5ncl482g7j1cu5eo74cp02tblvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
