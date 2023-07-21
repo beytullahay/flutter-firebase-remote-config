@@ -17,3 +17,8 @@ Using Flutter and Firebase Remote Config, it is a project that prints on the scr
 <img src="https://github.com/beytullahay/flutter_remote_config/assets/81561442/590f6c58-bb8c-47da-a6b0-ff902b7a3f93" width='1100'> 
 <img src="https://github.com/beytullahay/flutter_remote_config/assets/81561442/9ca470cc-7240-4768-bc4d-b3dce9e06adf" width='1100'> 
  
+## Screenshots
+
+Hepsi                  |   Linkedin link yok hali               |
+:-------------------------:|:-------------------------:|
+<img src="https://github.com/beytullahay/flutter_firebase_remote_config/assets/81561442/2995071b-c08a-463b-841d-b63f226b5e9d" width='250'>  | <img src="https://github.com/beytullahay/flutter_firebase_remote_config/assets/81561442/44648534-25b5-463f-89d1-058d240a1a52" width='250'>  
